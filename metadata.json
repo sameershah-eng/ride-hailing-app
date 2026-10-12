@@ -1,0 +1,6 @@
+{
+  "name": "Halo — Ride-Hailing Platform",
+  "description": "Production-quality interactive demo showcasing Halo Rider App, Driver App, and Admin Panel with cross-app live state synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
